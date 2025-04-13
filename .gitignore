@@ -1,0 +1,10 @@
+# Node.js
+/backend/node_modules
+/backend/.env
+
+# React
+/onlineassessment/node_modules
+/onlineassessment/.env
+
+# Logs
+*.log
