@@ -1,0 +1,79 @@
+.table-container {
+    width: 100%;
+  }
+  
+  .table-title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 4px;
+  }
+  
+  .table-description {
+    font-size: 14px;
+    color: #6b7280;
+    margin-bottom: 16px;
+  }
+  
+  .table-responsive {
+    overflow-x: auto;
+  }
+  
+  .data-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .data-table th {
+    text-align: left;
+    padding: 12px 16px;
+    font-size: 12px;
+    font-weight: 500;
+    color: #6b7280;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  
+  .data-table td {
+    padding: 12px 16px;
+    font-size: 14px;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  
+  .font-medium {
+    font-weight: 500;
+  }
+  
+  .candidate-info {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  
+  .candidate-name {
+    font-weight: 500;
+  }
+  
+  .candidate-id {
+    font-size: 12px;
+    color: #6b7280;
+  }
+  
+  .score-display {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  
+  .progress-container {
+    width: 80px;
+    height: 8px;
+    background-color: #e5e7eb;
+    border-radius: 9999px;
+    overflow: hidden;
+  }
+  
+  .progress-bar {
+    height: 100%;
+    background-color: #3b82f6;
+  }
+  
+  

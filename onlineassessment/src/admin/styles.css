@@ -1,0 +1,10 @@
+/* Initially hide sub-links */
+.sub-links {
+    display: none;
+  }
+  
+  /* Show sub-links when the parent is hovered */
+  .position-relative:hover .sub-links {
+    display: block;
+  }
+  
